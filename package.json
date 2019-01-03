@@ -1,0 +1,17 @@
+{
+  "name": "@mathewparet/vue-pin-input",
+  "description": "A Vue.JS PIN input",
+  "version": "1.0.3",
+  "author": "Mathew Paret <mathewparet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.11"
+  },
+  "main": "src/PinInput.vue",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "repository": "github:mathewparet/vue-pin-input"
+}
